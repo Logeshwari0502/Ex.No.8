@@ -1,6 +1,5 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :23/05/2026
 # Reg. No:212223060137(Logeshwari R)
 ---
 
